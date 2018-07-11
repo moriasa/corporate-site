@@ -108,7 +108,8 @@ header {
         margin-left: 70px; } }
 
 #service_area {
-  padding-top: 20px; }
+  padding-top: 20px;
+  background-color: white; }
   @media (min-width: 551px) {
     #service_area {
       padding-top: 30px; } }
@@ -342,7 +343,9 @@ h1 {
   margin-bottom: 0px; }
 #contents #main th {
   padding-right: 20px;
-  color: #626262; }
+  color: #626262;
+  font-size: 14px;
+  font-size: 1.4rem; }
 #contents #main td {
   padding: 20px 0px;
   color: #626262;

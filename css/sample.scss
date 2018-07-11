@@ -204,6 +204,7 @@ header{
 #service_area{
 
   padding-top:20px;
+  background-color:white;
 
   @media (min-width: 551px) {
     padding-top: 30px;
@@ -661,6 +662,7 @@ h1{
     th{
       padding-right:20px;
       color:#626262;
+      @include fontsize(14);
       
     }
     
